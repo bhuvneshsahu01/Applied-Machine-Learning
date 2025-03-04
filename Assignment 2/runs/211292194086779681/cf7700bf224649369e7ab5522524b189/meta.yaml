@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Bhuvnesh's PC/PycharmProjects/pythonProject/AML/Assignment
+  2/runs/211292194086779681/cf7700bf224649369e7ab5522524b189/artifacts
+end_time: 1741107288298
+entry_point_name: ''
+experiment_id: '211292194086779681'
+lifecycle_stage: active
+run_id: cf7700bf224649369e7ab5522524b189
+run_name: svm_model
+run_uuid: cf7700bf224649369e7ab5522524b189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741107266093
+status: 3
+tags: []
+user_id: Bhuvnesh's PC

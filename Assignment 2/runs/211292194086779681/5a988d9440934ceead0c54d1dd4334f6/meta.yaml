@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Bhuvnesh's PC/PycharmProjects/pythonProject/AML/Assignment
+  2/runs/211292194086779681/5a988d9440934ceead0c54d1dd4334f6/artifacts
+end_time: 1741107233267
+entry_point_name: ''
+experiment_id: '211292194086779681'
+lifecycle_stage: active
+run_id: 5a988d9440934ceead0c54d1dd4334f6
+run_name: log_reg_model
+run_uuid: 5a988d9440934ceead0c54d1dd4334f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741107224859
+status: 3
+tags: []
+user_id: Bhuvnesh's PC

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Bhuvnesh's PC/PycharmProjects/pythonProject/AML/Assignment
+  2/runs/211292194086779681/e8e86a2788844dee9725091fe8662d85/artifacts
+end_time: 1741107291412
+entry_point_name: ''
+experiment_id: '211292194086779681'
+lifecycle_stage: active
+run_id: e8e86a2788844dee9725091fe8662d85
+run_name: naive_bayes_model
+run_uuid: e8e86a2788844dee9725091fe8662d85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741107288306
+status: 3
+tags: []
+user_id: Bhuvnesh's PC

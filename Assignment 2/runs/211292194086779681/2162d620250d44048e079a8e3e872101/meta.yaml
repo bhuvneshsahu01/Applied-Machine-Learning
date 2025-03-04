@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Bhuvnesh's PC/PycharmProjects/pythonProject/AML/Assignment
+  2/runs/211292194086779681/2162d620250d44048e079a8e3e872101/artifacts
+end_time: 1741107266077
+entry_point_name: ''
+experiment_id: '211292194086779681'
+lifecycle_stage: active
+run_id: 2162d620250d44048e079a8e3e872101
+run_name: random_forest_model
+run_uuid: 2162d620250d44048e079a8e3e872101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741107233273
+status: 3
+tags: []
+user_id: Bhuvnesh's PC
