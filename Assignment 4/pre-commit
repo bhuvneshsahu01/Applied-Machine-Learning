@@ -1,0 +1,30 @@
+#!/bin/bash
+
+# Get the name of the current git branch
+branch_name=$(git symbolic-ref --short HEAD)
+
+# Proceed only if on 'main' branch
+if [[ "$branch_name" == "main" ]]; then
+    echo "🔍 Verifying tests before pushing changes to 'main'..."
+
+    # Change directory to Assignment04 (update path as required)
+    cd Assignment04 || {
+        echo "⚠️ Could not enter directory Assignment04."
+        exit 1
+    }
+
+    # Run tests with coverage and output to coverage.txt
+    pytest test.py \
+        --cov=test \
+        --cov-report=term-missing > coverage.txt
+
+    test_status=$?
+
+    if [[ $test_status -eq 0 ]]; then
+        echo "✅ Tests succeeded. Safe to commit."
+        exit 0
+    else
+        echo "❌ Some tests failed. Please resolve them before committing!"
+        exit 1
+    fi
+fi
